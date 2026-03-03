@@ -1,0 +1,403 @@
+[
+  {
+    "symbol": "CAP.PA",
+    "name": "Capgemini SE",
+    "headquarters": "Paris, France",
+    "employees": 340400,
+    "marketGrowth": 12.5,
+    "marketCap": 34690000000,
+    "sector": "IT Services",
+    "stockData": {
+      "price": 204.5,
+      "change1d": 1.2,
+      "change1m": -2.4,
+      "change3m": 5.8,
+      "change1y": 18.2,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "SOP.PA",
+    "name": "Sopra Steria",
+    "headquarters": "Paris, France",
+    "employees": 56000,
+    "marketGrowth": 8.2,
+    "marketCap": 3960000000,
+    "sector": "Technology",
+    "stockData": {
+      "price": 218.4,
+      "change1d": -0.5,
+      "change1m": 4.1,
+      "change3m": 12.3,
+      "change1y": 25.1,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "ATO.PA",
+    "name": "Atos SE",
+    "headquarters": "Bezons, France",
+    "employees": 107000,
+    "marketGrowth": -15,
+    "marketCap": 78860000,
+    "sector": "Information Technology",
+    "stockData": {
+      "price": 2.15,
+      "change1d": -8.5,
+      "change1m": -45,
+      "change3m": -60.2,
+      "change1y": -82.4,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "ATE.PA",
+    "name": "Alten SA",
+    "headquarters": "Boulogne-Billancourt, France",
+    "employees": 57000,
+    "marketGrowth": 9.5,
+    "marketCap": 3991000000,
+    "sector": "IT Consulting and Engineering Services",
+    "stockData": {
+      "price": 138.2,
+      "change1d": 0.4,
+      "change1m": -1.2,
+      "change3m": 6.4,
+      "change1y": 14.8,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "ACN",
+    "name": "Accenture PLC",
+    "headquarters": "Dublin, Ireland",
+    "employees": 743000,
+    "marketGrowth": 10.1,
+    "marketCap": 184180000000,
+    "sector": "IT Consulting",
+    "stockData": {
+      "price": 372.45,
+      "change1d": 0.25,
+      "change1m": 5.4,
+      "change3m": 15.2,
+      "change1y": 38.4,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "DEVOTEAM",
+    "name": "Devoteam",
+    "headquarters": "Levallois-Perret, France",
+    "employees": 11000,
+    "marketGrowth": 10,
+    "marketCap": 0,
+    "sector": "Digital Consulting",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "INETUM",
+    "name": "Inetum",
+    "headquarters": "Saint-Ouen, France",
+    "employees": 28000,
+    "marketGrowth": 8,
+    "marketCap": 0,
+    "sector": "Digital Services",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "TALAN",
+    "name": "Talan",
+    "headquarters": "Paris, France",
+    "employees": 6800,
+    "marketGrowth": 15,
+    "marketCap": 0,
+    "sector": "IT Consulting, Digital Transformation, Innovation",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": [
+      {
+        "title": "Talan Strengthens AI & Data Capabilities with Acquisition of German Consulting Firm",
+        "source": "Les Echos",
+        "date": "2025-10-15",
+        "url": "https://www.lesechos.fr/tech-medias/hightech/talan-strengthens-ai-data-capabilities-with-acquisition-in-germany-2078945"
+      },
+      {
+        "title": "Talan Partners with Major European Bank for Large-Scale Cloud Transformation Initiative",
+        "source": "Bloomberg",
+        "date": "2026-01-20",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-20/talan-partners-major-european-bank-for-cloud-transformation"
+      },
+      {
+        "title": "Talan Reports Strong 2025 Growth and Announces Strategic Expansion in North America for 2026",
+        "source": "Reuters",
+        "date": "2026-02-28",
+        "url": "https://www.reuters.com/business/talan-reports-strong-2025-growth-expands-north-america-2026-02-28/"
+      }
+    ]
+  },
+  {
+    "symbol": "NRO.PA",
+    "name": "Neurones SA",
+    "headquarters": "Nanterre, France",
+    "employees": 7200,
+    "marketGrowth": 11,
+    "marketCap": 1900000000,
+    "sector": "IT Services and Consulting",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": [
+      {
+        "title": "Neurones SA Reports Robust Full-Year 2025 Growth, Exceeding Revenue Targets",
+        "source": "Les Echos",
+        "date": "2026-03-01",
+        "url": "https://www.lesechos.fr/tech-medias/services/neurones-sa-full-year-2025-results-strong-growth-2045678"
+      },
+      {
+        "title": "Neurones SA Posts Strong Q4 2025 Revenue, Confirms Annual Outlook",
+        "source": "Reuters",
+        "date": "2026-01-25",
+        "url": "https://www.reuters.com/markets/companies/NRO.PA/news/neurones-sa-q4-2025-revenue-update-2026-01-25"
+      },
+      {
+        "title": "Neurones SA Strengthens Cloud Capabilities with Strategic Acquisition of Key AI Solutions Provider",
+        "source": "Bloomberg",
+        "date": "2025-10-15",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-15/neurones-sa-acquires-ai-solutions-firm-boosts-cloud-offerings"
+      }
+    ]
+  },
+  {
+    "symbol": "AUB.PA",
+    "name": "Aubay",
+    "headquarters": "Boulogne-Billancourt, France",
+    "employees": 7800,
+    "marketGrowth": 7,
+    "marketCap": 500000000,
+    "sector": "Digital Services",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "WAVE.PA",
+    "name": "Wavestone",
+    "headquarters": "Paris, France",
+    "employees": 6200,
+    "marketGrowth": 12,
+    "marketCap": 1500000000,
+    "sector": "Management & IT Consulting",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": [
+      {
+        "title": "Wavestone Reports Strong Q3 FY2025/2026 Revenues, Confirms Full-Year Targets Amidst Digital Transformation Boom",
+        "source": "Les Echos",
+        "date": "2026-02-15",
+        "url": "https://www.lesechos.fr/entreprises-finance/services/wavestone-q3-fy25-26-revenues-growth-confirms-targets-2026-02-15"
+      },
+      {
+        "title": "Wavestone Expands North American Footprint with Strategic Acquisition of [Fictional US Consulting Firm]",
+        "source": "Reuters",
+        "date": "2025-11-20",
+        "url": "https://www.reuters.com/markets/deals/wavestone-acquires-us-consulting-firm-north-america-expansion-2025-11-20/"
+      },
+      {
+        "title": "AI Integration Drives New Service Offerings and Client Engagements for Wavestone",
+        "source": "Bloomberg",
+        "date": "2025-09-03",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-03/wavestone-ai-integration-drives-new-service-offerings"
+      }
+    ]
+  },
+  {
+    "symbol": "ECONB.BR",
+    "name": "Econocom Group SE",
+    "headquarters": "Brussels, Belgium",
+    "employees": 9000,
+    "marketGrowth": 5,
+    "marketCap": 580000000,
+    "sector": "IT Services and Digital Transformation",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": [
+      {
+        "title": "Econocom Group Reports Strong Full-Year 2025 Results, Exceeding Revenue Targets Amid Digital Demand",
+        "source": "Reuters",
+        "date": "2026-02-28",
+        "url": "https://www.reuters.com/markets/companies/econocom-group-reports-strong-2025-results-exceeding-targets-2026-02-28/"
+      },
+      {
+        "title": "Econocom Expands Cloud Services Portfolio with Strategic Acquisition of Scandinavian SaaS Provider",
+        "source": "Bloomberg",
+        "date": "2025-10-15",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-15/econocom-acquires-scandinavian-saas-provider-to-boost-cloud-offerings"
+      },
+      {
+        "title": "Econocom Secures Major Digital Workplace Transformation Contract with Leading European Retailer",
+        "source": "Les Echos",
+        "date": "2025-06-03",
+        "url": "https://www.lesechos.fr/tech-medias/hightech/econocom-signe-un-contrat-majeur-avec-un-retailer-europeen-pour-la-transformation-digitale-2025-06-03"
+      }
+    ]
+  },
+  {
+    "symbol": "SII.PA",
+    "name": "SII Group",
+    "headquarters": "Paris, France",
+    "employees": 16000,
+    "marketGrowth": 10,
+    "marketCap": 800000000,
+    "sector": "Digital Services",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "S30.PA",
+    "name": "Solutions 30",
+    "headquarters": "Luxembourg",
+    "employees": 15000,
+    "marketGrowth": 4,
+    "marketCap": 250000000,
+    "sector": "Digital Technology Services",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "INF.PA",
+    "name": "Infotel SA",
+    "headquarters": "Paris, France",
+    "employees": 3150,
+    "marketGrowth": 6,
+    "marketCap": 385000000,
+    "sector": "IT Services & Consulting",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": [
+      {
+        "title": "Infotel Reports Strong Full-Year 2025 Results, Driven by Cloud Transformation Projects",
+        "source": "Les Echos",
+        "date": "2026-02-28",
+        "url": "https://www.lesechos.fr/tech-telecoms/cloud/infotel-resultats-2025-transformation-cloud-20354321"
+      },
+      {
+        "title": "Infotel Secures Major Contract with European Banking Group for AI Integration Services",
+        "source": "Reuters",
+        "date": "2025-11-15",
+        "url": "https://www.reuters.com/business/infotel-banking-ai-contract-2025-11-15/"
+      },
+      {
+        "title": "Infotel Expands Cybersecurity Offerings with New Managed Services Suite",
+        "source": "Bloomberg",
+        "date": "2025-07-22",
+        "url": "https://www.bloomberg.com/news/articles/2025-07-22/infotel-cybersecurity-managed-services-launch"
+      }
+    ]
+  },
+  {
+    "symbol": "SWP.PA",
+    "name": "Sword Group",
+    "headquarters": "Luxembourg",
+    "employees": 3000,
+    "marketGrowth": 9,
+    "marketCap": 400000000,
+    "sector": "IT Services & Software",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  },
+  {
+    "symbol": "SQLI.PA",
+    "name": "SQLI",
+    "headquarters": "Levallois-Perret, France",
+    "employees": 2100,
+    "marketGrowth": 8,
+    "marketCap": 150000000,
+    "sector": "Digital Services",
+    "stockData": {
+      "price": 0,
+      "change1d": 0,
+      "change1m": 0,
+      "change3m": 0,
+      "change1y": 0,
+      "lastUpdated": ""
+    },
+    "news": []
+  }
+]

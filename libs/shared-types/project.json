@@ -10,7 +10,7 @@
       "options": {
         "outputPath": "dist/libs/shared-types",
         "main": "libs/shared-types/src/index.ts",
-        "tsConfig": "libs/shared-types/tsconfig.lib.json",
+        "tsConfig": "libs/shared-types/tsconfig.json",
         "assets": ["libs/shared-types/*.md"]
       }
     }

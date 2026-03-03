@@ -36,14 +36,14 @@ npm run start:web
 
 ## API Endpoints
 
-| Method | Path | Query Params | Description |
-|--------|------|-------------|-------------|
-| GET | `/market/quotes` | `symbols=CAP.PA,SOP.PA` | Get batch quotes |
-| GET | `/market/quote` | `symbol=CAP.PA` | Get single quote |
+| Method | Path             | Query Params                 | Description      |
+| ------ | ---------------- | ---------------------------- | ---------------- |
+| GET    | `/market/quotes` | `symbols=CAPG:XPAR,SOP:XPAR` | Get batch quotes |
+| GET    | `/market/quote`  | `symbol=CAPG:XPAR`           | Get single quote |
 
 ## Environment Variables
 
-| Variable | Description |
-|----------|-------------|
+| Variable              | Description                                        |
+| --------------------- | -------------------------------------------------- |
 | `TWELVE_DATA_API_KEY` | Your [Twelve Data](https://twelvedata.com) API key |
-| `PORT` | Backend port (default: 3000) |
+| `PORT`                | Backend port (default: 3000)                       |

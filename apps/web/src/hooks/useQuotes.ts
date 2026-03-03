@@ -1,8 +1,8 @@
-import { useEffect, useState, useCallback } from 'react';
-import axios from 'axios';
-import type { QuoteDto } from '@market-scanner/shared-types';
+import { useEffect, useState, useCallback } from "react";
+import axios from "axios";
+import type { QuoteDto } from "@market-scanner/shared-types";
 
-const REFRESH_INTERVAL = 60_000; // 60 seconds
+const REFRESH_INTERVAL = 900_000; // 15 minutes
 
 export function useQuotes(symbols: string[]) {
   const [data, setData] = useState<QuoteDto[]>([]);
@@ -15,17 +15,17 @@ export function useQuotes(symbols: string[]) {
     setLoading(true);
     setError(null);
     try {
-      const resp = await axios.get<QuoteDto[]>('/api/market/quotes', {
-        params: { symbols: symbols.join(',') },
+      const resp = await axios.get<QuoteDto[]>("/api/market/quotes", {
+        params: { symbols: symbols.join(",") },
       });
       setData(resp.data);
       setLastUpdated(new Date());
     } catch (err: any) {
-      setError(err.response?.data?.message ?? 'Failed to fetch market data');
+      setError(err.response?.data?.message ?? "Failed to fetch market data");
     } finally {
       setLoading(false);
     }
-  }, [symbols.join(',')]);
+  }, [symbols.join(",")]);
 
   useEffect(() => {
     fetchQuotes();
